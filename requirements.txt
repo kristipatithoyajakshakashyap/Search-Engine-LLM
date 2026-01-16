@@ -10,11 +10,13 @@ langchain-community
 langchain-huggingface
 langchain-groq
 
+# Search tools
+duckduckgo_search
+ddgs
 
 # Data loaders
 wikipedia
 arxiv
-duckduckgo_search
 
 # DB
 duckdb
@@ -24,5 +26,6 @@ huggingface_hub
 
 # Streamlit
 streamlit
+
 
 
