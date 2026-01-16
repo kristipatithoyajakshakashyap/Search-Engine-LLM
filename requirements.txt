@@ -1,0 +1,46 @@
+# Core
+python-dotenv
+ipykernel
+pandas
+numexpr
+validators
+gradio
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-huggingface
+langchain-groq
+langchain-chroma
+
+# LLM / Embeddings (PyTorch only)
+sentence-transformers
+torch
+faiss-cpu
+chromadb
+cassio
+datasets
+
+# Data loaders
+pypdf
+pymupdf
+bs4
+wikipedia
+arxiv
+duckduckgo_search
+youtube_transcript_api
+unstructured[pdf]
+pytube
+
+# DB
+duckdb
+mysql-connector-python
+SQLAlchemy
+
+# Hugging Face
+huggingface_hub
+
+# Streamlit
+streamlit
