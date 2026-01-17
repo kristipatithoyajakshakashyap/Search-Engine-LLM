@@ -1,3 +1,4 @@
+---
 title: Search Engine
 emoji: 🚀
 colorFrom: red
@@ -9,3 +10,4 @@ python_version: "3.11"
 app_file: app.py
 pinned: false
 short_description: Search Engine with LLM
+---
