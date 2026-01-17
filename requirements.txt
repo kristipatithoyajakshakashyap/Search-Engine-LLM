@@ -2,7 +2,7 @@
 python-dotenv
 ipykernel
 pandas
-pyarrow==13.0.0
+pyarrow==14.0.2
 
 # LangChain ecosystem
 langchain
@@ -26,6 +26,7 @@ huggingface_hub
 
 # Streamlit
 streamlit
+
 
 
 
