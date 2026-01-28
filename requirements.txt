@@ -26,3 +26,5 @@ huggingface_hub
 
 # Streamlit 
 streamlit
+
+altair==4.2.2
