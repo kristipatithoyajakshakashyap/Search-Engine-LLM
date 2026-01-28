@@ -1,29 +1,28 @@
-# Core dependencies
-python-dotenv==1.0.0
-ipykernel==6.28.0
-pandas==2.1.0
-numpy<2        # Important! Stay below 2.x for PyArrow compatibility
-pyarrow==14.0.2
+# Core 
+python-dotenv 
+ipykernel 
+pandas 
+pyarrow
 
-# LangChain ecosystem
-langchain==0.1.263
-langchain-community==0.0.191
-langchain-huggingface==0.0.33
-langchain-groq==0.0.19
+# LangChain ecosystem 
+langchain 
+langchain-community 
+langchain-huggingface 
+langchain-groq 
 
-# Search tools
-duckduckgo_search==2.9.1
-ddgs==0.6.8
+# Search tools 
+duckduckgo_search 
+ddgs 
 
-# Data loaders
-wikipedia==1.4.0
-arxiv==1.4.6
+# Data loaders 
+wikipedia 
+arxiv 
 
-# Database
-duckdb==1.7.1
+# DB 
+duckdb 
 
-# Hugging Face
-huggingface_hub==0.18.1
+# Hugging Face 
+huggingface_hub 
 
-# Streamlit
-streamlit==1.30.0
+# Streamlit 
+streamlit
